@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1660201619 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\employee.cpp
+	"employee.h"
+	<iostream>
+
+1660221600 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\person.cpp
+	"person.h"
+	"iostream"
+
+1660167243 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\person.h
+	<string>
+	"iostream"
+
+1660221541 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\main.cpp
+	<iostream>
+	"employee.h"
+	"customer.h"
+	"person.h"
+	<list>
+
+1660218059 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\employee.h
+	"person.h"
+
+1660221600 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\customer.cpp
+	"customer.h"
+	"iostream"
+
+1660219957 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\customer.h
+	"person.h"
+
+1659533210 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1659533711 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\menu.h
+	"employee.h"
+	"Customer.h"
+	"findID.h"
+
+1659529129 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\search.cpp
+	"Search.h"
+	<iostream>
+
+1659528975 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\search.h
+	"employee.h"
+	"person.h"
+
+1659533843 source:c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\src\findid.cpp
+	"findID.h"
+	<list>
+
+1659533992 c:\users\eabdi\onedrive - volvo cars\desktop\codeblocks-20.03mingw-nosetup\folder_to_create_project\person\include\findid.h
+	<iostream>
+
